@@ -1,7 +1,3 @@
-Certainly! Below is a README template for the described code snippet:
-
----
-
 # Text Classification with K-Nearest Neighbors (KNN)
 
 This repository contains code for performing text classification using the K-Nearest Neighbors (KNN) algorithm. The code preprocesses text data, trains a KNN classifier, evaluates its performance, and makes predictions on new data.
